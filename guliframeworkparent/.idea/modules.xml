@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guliframeworkcommon/guliframeworkcommon.iml" filepath="$PROJECT_DIR$/guliframeworkcommon/guliframeworkcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guliframeworkparent.iml" filepath="$PROJECT_DIR$/guliframeworkparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimicroserviceedu/gulimicroserviceedu.iml" filepath="$PROJECT_DIR$/gulimicroserviceedu/gulimicroserviceedu.iml" />
+    </modules>
+  </component>
+</project>
